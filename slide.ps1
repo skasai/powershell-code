@@ -14,7 +14,7 @@
  
 # Define the file we are checking on Google Team Drive, using the specified path on
 # the PC, IE: G:\Team Drives\Department-Drive\Presentation\presentation.ppsx
-$file = "<Google Team Drive Document Path on Computer>"
+$file1 = "<Google Team Drive Document Path on Computer>"
  
  
 # Define the file name and location to save locally and call from:
